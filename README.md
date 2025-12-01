@@ -10,8 +10,7 @@ Automated solver for the LinkedIn ZIP puzzle: **Hamiltonian path visiting all fr
 - ✅ **Test mode**: 5x5 mock puzzle for quick verification.
 - ✅ **Animated visualization**: Step-by-step path replay (play/pause/step, speed control).
 - ✅ **Validation**: Checks path coverage, numbers order, no crossings/walls.
-- ✅ **Concise code**: DRY/KISS, optimized backtracking.
-
+  
 ## Installation
 1. Clone/download project.
 2. Install deps:
