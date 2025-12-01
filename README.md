@@ -100,23 +100,5 @@ Visualizer.py (Tkinter animation)
 - **Viz tweaks**: Colors/sizes/speed in visualizer.py.
 - **Solver**: Adjust neighbor order for faster paths.
 
-## Troubleshooting
-| Issue | Fix |
-|-------|-----|
-| **ChromeDriver error** | Re-run `pip install -r requirements.txt` (auto-installs). |
-| **Login fails** | Manually login to LinkedIn before "Solve Live". |
-| **No solution** | Unreachable numbers/walls → Check console. |
-| **Extraction fails** | Game updated? Update extractor.py selectors. |
-| **Viz numbers hidden** | Fixed: Smaller dots + redraw on top. |
-| **Slow solve** | Large grids → Pure DFS exponential, but puzzles small. |
-
-## Development
-- **Run**: `python main.py`
-- **Test live**: Ensure ZIP page loaded.
-- **Standards**: DRY/KISS, documented, end-to-end testable.
-
-**Recent Updates**:
-- Numbers visible during path visits.
-- Visualizer concise (~25% shorter).
 
 Enjoy solving! 🚀
