@@ -30,7 +30,7 @@ GUI opens:
 
 | Button | Action |
 |--------|--------|
-| 🎮 **Solve Live Puzzle** | Opens browser → LinkedIn ZIP → extracts → solves → animates. **Login to LinkedIn first!** |
+| 🎮 **Solve Live Puzzle** | Opens browser → LinkedIn ZIP → extracts → solves → animates. **no need to Login to LinkedIn!** |
 | 🧪 **Test 5x5 Puzzle** | Mock grid → solves → animates (for testing). |
 | ❌ **Exit** | Quit. |
 
