@@ -25,7 +25,8 @@ Automated solver for the LinkedIn ZIP puzzle: **Hamiltonian path visiting all fr
 ```
 cd LinkedinZipSolver
 python main.py
-```<img width="491" height="409" alt="image" src="https://github.com/user-attachments/assets/c0fc2345-d649-4150-824e-c3be45474061" />
+```
+<img width="491" height="409" alt="image" src="https://github.com/user-attachments/assets/c0fc2345-d649-4150-824e-c3be45474061" />
 
 GUI opens:
 
@@ -36,10 +37,12 @@ GUI opens:
 | ❌ **Exit** | Quit. |
 
 <img width="409" height="591" alt="image" src="https://github.com/user-attachments/assets/e939facb-95f2-40be-9c26-969eb78c349b" />
+
 **Live Workflow**:
 1. Navigate browser to [LinkedIn ZIP](https://www.linkedin.com/games/zip/).
 2. Click "Solve Live" → Auto-extracts grid/numbers/walls → Finds path → Opens viz window.
 3. Use controls: ▶ Play, ⏮ Start, ⏩ Next, speed slider.
+   
 <img width="452" height="650" alt="image" src="https://github.com/user-attachments/assets/5b554f64-884f-4391-8c37-54885bef1d4d" />
 
 
