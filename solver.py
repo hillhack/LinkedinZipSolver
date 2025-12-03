@@ -47,7 +47,7 @@ class ZipSolverCore:
 
 
     def solve_zip_game(self) -> Optional[List[Tuple[int, int]]]:
-        """Solve using A*-guided backtracking."""
+        """Solve using DFS backtracking."""
         if 1 not in self.numbered_cells:
             return None
 
